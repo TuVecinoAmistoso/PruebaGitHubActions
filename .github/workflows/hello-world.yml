@@ -32,3 +32,6 @@ jobs:
           ls -la
           pwd
           whoami
+          ls /
+          ls /home/
+          
